@@ -12,5 +12,5 @@ Habilidades: JAVASCRIPT/ REACT / REDUX / HTML / CSS / NODE JS / EXPRESS / POSTGR
 - ⚡ Dato curioso: Trabajo actualmente en Movistar Argentina 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Floded)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/luis-alfredo-lillo-morales-8a2b97246/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Floded)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luis-alfredo-lillo-morales-8a2b97246/)  
 
