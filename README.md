@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Luis
+#### Full Stack developer
+![Full Stack developer](https://img.freepik.com/vector-premium/desarrollo-web-lenguajes-programacion-css-html-it-ui-programador-personaje-dibujos-animados-desarrollo-sitio-web-codificacion-banner-ilustracion-plana_128772-1540.jpg)
 
-<!--
-**Floded/Floded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta explorar lo que se encuentra detrás de cada proyecto de IT, y fue por eso que decidí adentrarme en el mundo de la programación. Aquí encontrarás una amplia variedad de mis proyectos y mi camino de aprendizaje
 
-Here are some ideas to get you started:
+Habilidades: JAVASCRIPT/ REACT / REDUX / HTML / CSS / NODE JS / EXPRESS / POSTGRESQL / MONGODB / MONGOOSE / MERCADOPAGO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en esta web https://marketzone.vercel.app/ 
+- 🌱 Estoy aprendiendo TypeScript 
+- 📫 Cómo contactarme: www.linkedin.com/in/luis-alfredo-lillo-morales-8a2b97246 
+- ⚡ Dato curioso: Trabajo actualmente en Movistar Argentina 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Floded)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/luis-alfredo-lillo-morales-8a2b97246/)  
+
