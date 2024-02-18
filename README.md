@@ -4,10 +4,10 @@
 
 Me encanta explorar lo que se encuentra detrás de cada proyecto de IT, y fue por eso que decidí adentrarme en el mundo de la programación. Aquí encontrarás una amplia variedad de mis proyectos y mi camino de aprendizaje
 
-Habilidades: JAVASCRIPT/ REACT / REDUX / HTML / CSS / NODE JS / EXPRESS / POSTGRESQL / MONGODB / MONGOOSE / MERCADOPAGO
+Habilidades: JAVASCRIPT/ TYPESCRIPT / REACT / REDUX / HTML / CSS / NODE JS / EXPRESS / POSTGRESQL / MONGODB / MONGOOSE / MERCADOPAGO
 
 - 🔭 Estoy trabajando en esta web https://marketzone.vercel.app/ 
-- 🌱 Estoy aprendiendo TypeScript 
+- 🌱 Estoy aprendiendo Java 
 - 📫 Cómo contactarme: www.linkedin.com/in/luis-alfredo-lillo-morales-8a2b97246 
 - ⚡ Dato curioso: Trabajo actualmente en Movistar Argentina 
 
